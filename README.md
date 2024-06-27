@@ -18,5 +18,6 @@
 
 # 資料
 
+* コア開発 > ランゲージ > コンセプト > [パス名](https://developer.4d.com/docs/ja/Concepts/paths/)
 * デスクトップアプリ > フォーム > フォームオブジェクトプロパティ > [ピクチャー](https://developer.4d.com/docs/ja/FormObjects/propertiesPicture/)
 * [OBJECT SET FORMAT](https://doc.4d.com/4Dv20R4/4D/20-R4/OBJECT-SET-FORMAT.301-6656560.ja.html)
