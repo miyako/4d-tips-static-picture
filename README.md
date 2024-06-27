@@ -21,6 +21,9 @@
 * プロパティ名: `picture`
 * プロパティ値: `url({パス名})`
 
+* <img src="css.png" width="600" />
+
+
 # 資料
 
 * コア開発 > ランゲージ > コンセプト > [パス名](https://developer.4d.com/docs/ja/Concepts/paths/)
