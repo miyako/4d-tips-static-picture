@@ -1,0 +1,7 @@
+.icon {
+	picture: url("/RESOURCES/icon.jpg");
+}
+
+text.bold {
+	font-weight: bold;
+}
