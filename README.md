@@ -21,8 +21,7 @@
 * プロパティ名: `picture`
 * プロパティ値: `url({パス名})`
 
-* <img src="css.png" width="600" />
-
+<img src="css.png" width="600" />
 
 # 資料
 
