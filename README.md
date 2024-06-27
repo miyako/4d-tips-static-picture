@@ -2,4 +2,4 @@
 スタティックピクチャのフォーマット
 
 
-<img src="screeshot.png" width="400" />
+<img src="screeshot.png" width="800" />
