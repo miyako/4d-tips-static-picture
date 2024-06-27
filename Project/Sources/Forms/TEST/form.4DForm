@@ -1,0 +1,143 @@
+{
+	"$4d": {
+		"version": "1",
+		"kind": "form"
+	},
+	"windowSizingX": "variable",
+	"windowSizingY": "variable",
+	"windowMinWidth": 0,
+	"windowMinHeight": 0,
+	"windowMaxWidth": 32767,
+	"windowMaxHeight": 32767,
+	"rightMargin": 20,
+	"bottomMargin": 20,
+	"events": [
+		"onLoad",
+		"onPageChange",
+		"onValidate",
+		"onClick",
+		"onDoubleClick",
+		"onOutsideCall",
+		"onBeginDragOver",
+		"onDragOver",
+		"onDrop",
+		"onAfterKeystroke",
+		"onMenuSelect",
+		"onPluginArea",
+		"onAfterEdit",
+		"onTimer",
+		"onBoundVariableChange"
+	],
+	"windowTitle": "",
+	"destination": "detailScreen",
+	"pages": [
+		{
+			"objects": {}
+		},
+		{
+			"objects": {
+				"Static Picture1": {
+					"type": "picture",
+					"top": 10,
+					"left": 584,
+					"width": 46,
+					"height": 46,
+					"picture": "Images/icon.jpg",
+					"pictureFormat": "scaled",
+					"sizingX": "move"
+				},
+				"Input": {
+					"type": "input",
+					"left": 21,
+					"top": 32,
+					"width": 544,
+					"height": 17,
+					"dataSource": "OBJECT Get format:C894(*; \"Static Picture1\")",
+					"enterable": false,
+					"focusable": false,
+					"fill": "transparent",
+					"sizingX": "grow"
+				},
+				"Text": {
+					"type": "text",
+					"text": "OBJECT Get format(*; \"Static Picture1\")",
+					"top": 10,
+					"left": 25,
+					"width": 345,
+					"height": 16,
+					"sizingX": "grow"
+				},
+				"Static Picture2": {
+					"type": "picture",
+					"top": 110,
+					"left": 584,
+					"width": 46,
+					"height": 46,
+					"picture": "/SOURCES/Forms/icon.jpg",
+					"pictureFormat": "scaled",
+					"sizingX": "move"
+				},
+				"Static Picture3": {
+					"type": "picture",
+					"top": 210,
+					"left": 584,
+					"width": 46,
+					"height": 46,
+					"picture": "/RESOURCES/icon.jpg",
+					"pictureFormat": "scaled",
+					"sizingX": "move"
+				},
+				"Input1": {
+					"type": "input",
+					"left": 21,
+					"top": 132,
+					"width": 544,
+					"height": 17,
+					"dataSource": "OBJECT Get format:C894(*; \"Static Picture2\")",
+					"enterable": false,
+					"focusable": false,
+					"fill": "transparent",
+					"sizingX": "grow"
+				},
+				"Text1": {
+					"type": "text",
+					"text": "OBJECT Get format(*; \"Static Picture2\")",
+					"top": 110,
+					"left": 25,
+					"width": 345,
+					"height": 16,
+					"sizingX": "grow"
+				},
+				"Input2": {
+					"type": "input",
+					"left": 21,
+					"top": 232,
+					"width": 544,
+					"height": 17,
+					"dataSource": "OBJECT Get format:C894(*; \"Static Picture3\")",
+					"enterable": false,
+					"focusable": false,
+					"fill": "transparent",
+					"sizingX": "grow"
+				},
+				"Text2": {
+					"type": "text",
+					"text": "OBJECT Get format(*; \"Static Picture3\")",
+					"top": 210,
+					"left": 25,
+					"width": 345,
+					"height": 16,
+					"sizingX": "grow"
+				}
+			}
+		}
+	],
+	"geometryStamp": 73,
+	"editor": {
+		"activeView": "View 1",
+		"defaultView": "View 1",
+		"views": {
+			"View 1": {}
+		}
+	}
+}
